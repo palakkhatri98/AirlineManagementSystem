@@ -3,3 +3,5 @@ Making Airline management system using Flask Framework(Python), Postgresql, Reac
 
 
 Step 1: Creating Repo
+
+Step 2: Creating Flask Backend
