@@ -15,6 +15,7 @@ staff_data = (
 )
 
 # Get all staff
+
 @app.route('/staff', methods=['GET'])
 def get_staff():
     return jsonify(staff_data), 200
